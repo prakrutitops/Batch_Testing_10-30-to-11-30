@@ -1,0 +1,21 @@
+OOP:Object Oriented Programming
+
+Types of OOP
+
+1)Object: Any entity which has own state and behaviour 
+ex: pen,paper etc..
+
+2)Class: Collection of objects 
+ex: Human body
+
+3)Abstraction: Hiding internal details and showing functionalities 
+ex:Login Page
+
+4)Encapsulation:Wrapping up of data or binding of data
+ex:Capsule
+
+5)Inheritance:When One Object acquire all the properties and behaviour of parent class
+ex:parent - child
+
+6)Polymorphism:Many ways to performa anything
+ex:Overloading,Overriding
