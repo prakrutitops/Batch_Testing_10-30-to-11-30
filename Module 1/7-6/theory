@@ -1,0 +1,14 @@
+Agreegate functions:
+MAX
+MIN
+AVG
+SUM
+
+Scalar Functions:
+UCASE
+LCASE
+
+JOIN:
+Primary Key: Data Duplication avoid
+Foreign Key: Refrence Pass on
+
