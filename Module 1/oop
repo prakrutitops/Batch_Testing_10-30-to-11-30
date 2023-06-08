@@ -19,3 +19,6 @@ ex:parent - child
 
 6)Polymorphism:Many ways to performa anything
 ex:Overloading,Overriding
+
+overloading:Method Having a same name but number of parameter are diffrent
+overriding:Method having a same name and number of parameter are also same
