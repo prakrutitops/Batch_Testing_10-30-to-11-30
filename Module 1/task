@@ -1,0 +1,45 @@
+Decision Coverage:
+
+1. Read A
+2. If A > 40 Then
+3. A = A * 2
+4. End If
+5. If A > 100 Then
+6. A = A – 10
+7. End If
+
+Statement Coverage:
+
+1. Read A
+2. If A > 40 Then
+3. A = A * 2
+4. End If
+5. If A > 100 Then
+6. A = A – 10
+7. End If
+
+Decision Coverage:
+
+1.Read Login Details
+2.If Login Details are true 
+3.Logged in
+4.Logged in fail
+5.If True Profile Open 
+6.After Logout
+7.End If
+8.End IF
+
+
+Statement Coverage:
+
+1.Read Login Details
+2.If Login Details are true 
+3.Logged in
+4.Logged in fail
+5.If True Profile Open 
+6.After Logout
+7.End If
+8.End IF
+
+
+
